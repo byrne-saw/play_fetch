@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://boards.greenhouse.io/
+HostUrl=https://apis.google.com/js/api.js?onload=googlePickerLoader
