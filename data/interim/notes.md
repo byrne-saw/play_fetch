@@ -1,0 +1,1 @@
+- there are dupicate values in brands.barcode, cannot assume unique values, will lead to duplicates in joins  
