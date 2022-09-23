@@ -1,2 +1,4 @@
 - there are dupicate values in brands.barcode, cannot assume unique values, will lead to duplicates in joins  
 -  many reapeated values in users.id
+- the barcodes in rewardsReceiptItemList and that whole set of data seems off after 2/26/21
+  - actually it looks like barcode is not a good join point, should use brandcode maybe
