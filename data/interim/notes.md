@@ -3,3 +3,4 @@
 - the barcodes in rewardsReceiptItemList and that whole set of data seems off after 2/26/21
   - actually it looks like barcode is not a good join point, should use brandcode maybe
 - using the same process I did for sizes I can extract brands from descriptions
+- there are two dupes in brands.brandCode - This needs to be accounted for when performing this join. If only brands.name is needed, a CTE selecting unique name, brandCode from brands would prevent duplicates.
