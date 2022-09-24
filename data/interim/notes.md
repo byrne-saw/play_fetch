@@ -2,3 +2,4 @@
 -  many reapeated values in users.id
 - the barcodes in rewardsReceiptItemList and that whole set of data seems off after 2/26/21
   - actually it looks like barcode is not a good join point, should use brandcode maybe
+- using the same process I did for sizes I can extract brands from descriptions
